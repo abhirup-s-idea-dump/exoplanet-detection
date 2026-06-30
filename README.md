@@ -41,4 +41,6 @@ pip install -r requirements.txt
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6acecb25-ac45-438f-8d11-852ace8bd353" />
 <img width="1134" height="442" alt="image" src="https://github.com/user-attachments/assets/571d1afe-083b-42cf-b1ea-d49f32ee5f90" />
 
-
+## Application
+This is the first prototype of the solver. Open to improvements and suggestions!
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://exoplanet-detection-exmjk38acolkecgcpoeujm.streamlit.app/)
